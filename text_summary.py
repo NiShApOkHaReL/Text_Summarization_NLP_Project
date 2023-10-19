@@ -26,7 +26,7 @@ def summarizer(rawdocs):
     nlp = spacy.load('en_core_web_sm')
 
     # Tokenize the input text
-    doc = nlp(text)
+    doc = nlp(rawdocs)
     #print(doc)
 
     tokens = [token.text for token in doc]
