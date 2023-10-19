@@ -29,7 +29,6 @@ This project is a text summarization tool that automatically generates concise a
 
    ```bash
    pip install spacy
-   # Other dependencies, if needed
    ```
 
 3. Download the spaCy English model:
