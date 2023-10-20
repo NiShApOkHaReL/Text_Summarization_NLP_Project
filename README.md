@@ -4,6 +4,8 @@
 
 This project is a text summarization tool that automatically generates concise and coherent summaries of long text documents. Text summarization is a vital task in natural language processing and can be used for a variety of applications, including content extraction, information retrieval, and more.
 
+![Alt Text](/image.png)
+
 ## Features
 
 - **Extractive Summarization:** This tool uses an extractive summarization approach, which selects and condenses the most important sentences from the input text to create a summary.
